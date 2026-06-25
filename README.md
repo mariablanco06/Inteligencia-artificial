@@ -1,1 +1,3 @@
-# Inteligencia-artificial
+# mis apuntes
+tecnologia educativa
+inteligencia artificial
